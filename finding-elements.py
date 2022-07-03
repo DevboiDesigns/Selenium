@@ -1,18 +1,3 @@
-# Selenium Web Driver
-
-- [Docs](https://developer.mozilla.org/en-US/docs/Web/WebDriver)
-
-## Install
-
-- `pip3 install --upgrad pip`
-- `pip3 install selenium`
-- Web Driver
-  - [Chrome](https://chromedriver.chromium.org/downloads)
-  - [Firefox](https://github.com/mozilla/geckodriver)
-
-# Setup
-
-```py
 from selenium import webdriver
 import time # for time.sleep()
 
@@ -29,6 +14,3 @@ driver.maximize_window()
 time.sleep(5) # import time
 
 driver.close()
-```
-
-# Automate finding Elements
