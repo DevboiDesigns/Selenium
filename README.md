@@ -39,7 +39,7 @@ button.click()
 input_field.submit()
 ```
 
-# Automate finding Elements
+# Finding Elements
 
 ## Name
 
